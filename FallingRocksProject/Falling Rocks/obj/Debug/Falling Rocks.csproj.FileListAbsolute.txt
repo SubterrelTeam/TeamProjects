@@ -1,0 +1,12 @@
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.exe.config
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.exe
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.pdb
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.exe
+E:\SoftUni\0.Programming-Basics\4.Console-Input-Output\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.pdb
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.exe.config
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.exe
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.pdb
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.exe
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\bin\Debug\Falling Rocks.pdb
+E:\Education\Software Engineering\SoftUni.Courses\C# Advance\Team\Falling Rocks\Falling Rocks\Falling Rocks\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache
