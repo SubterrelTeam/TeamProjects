@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\bin\Debug\RallyGame.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\bin\Debug\RallyGame.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\bin\Debug\RallyGame.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\obj\Debug\RallyGame.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\obj\Debug\RallyGame.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\TeamProjects\SimpleGame\SimpleGamesProjects\Rally\RallyGame\RallyGame\obj\Debug\RallyGame.pdb
